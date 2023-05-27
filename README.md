@@ -1,2 +1,2 @@
 # santuVR
-author: santu chanda
+## author: santu chanda
